@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "730981280068",
+    "project_id": "healthcare-c3c7c",
+    "storage_bucket": "healthcare-c3c7c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:730981280068:android:384ea609dc54a7b63e0f11",
+        "android_client_info": {
+          "package_name": "com.example.clearance_system"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRHnLnGnbK_LIkBJW1_9APLN2yE8x9HnM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

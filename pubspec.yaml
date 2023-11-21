@@ -1,0 +1,57 @@
+name: clearance_system
+description: A new Flutter project.
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=3.0.6 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  get: ^4.6.5
+  flutter_paystack: ^1.0.7
+  google_fonts: 
+  flutter_paystack_client: ^0.1.1
+  firebase_auth: ^4.9.0
+  cloud_firestore: ^4.9.2
+  firebase_core: ^2.16.0
+  responsive_sidebar: ^0.0.4
+  easy_sidemenu: ^0.5.0
+  flutter_svg: ^2.0.7
+  fl_chart: ^0.64.0
+ 
+
+dev_dependencies:
+  flutter_lints: ^2.0.0
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/
+    - assets/svg/
+
+  fonts:
+    - family: IBMPlexSans
+      fonts:
+        - asset: assets/fonts/IBMPlexSans-Bold.ttf
+          weight: 900
+        - asset: assets/fonts/IBMPlexSans-Bold.ttf
+          weight: 800
+        - asset: assets/fonts/IBMPlexSans-Bold.ttf
+          weight: 700
+        - asset: assets/fonts/IBMPlexSans-SemiBold.ttf
+          weight: 600
+        - asset: assets/fonts/IBMPlexSans-Medium.ttf
+          weight: 500
+        - asset: assets/fonts/IBMPlexSans-Regular.ttf
+          weight: 400
+        - asset: assets/fonts/IBMPlexSans-Light.ttf
+          weight: 300
+        - asset: assets/fonts/IBMPlexSans-ExtraLight.ttf
+          weight: 200
+        - asset: assets/fonts/IBMPlexSans-Thin.ttf
+          weight: 100  
+  
